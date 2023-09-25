@@ -1,3 +1,13 @@
+features of this projects are -
+-edit name , username , profile picture
+-make threads , reply to other people's threads ,  and also delete our own threads as well.
+-create communities(organizations) to discuss topics . Also allows us to send invite letters to others to join our community.
+
+
+
+
+
+
 this project requires the following keys to run in an '.env.local' file in the root folder =>
 
 //PLEASE CONTACT THE REPOSITORY OWNER TO CREATE YOUR OWN ACCOUNT in the demo version.
